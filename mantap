@@ -393,7 +393,7 @@
         top: 0,
 
         // size in pixel
-        size: 200,
+        size: 340,
 
         // code color or image element
         fill: '#000',
